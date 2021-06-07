@@ -44,14 +44,15 @@
                 width="35" />&nbsp;&nbsp;
   <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB"
                 width="48" />&nbsp;&nbsp;
-            
-<!--             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
-                width="48" />&nbsp;&nbsp; -->
-<img src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter"
+  <img src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter"
                 width="48" />&nbsp;&nbsp;
             <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48"
                 alt="Dart" />&nbsp;&nbsp;
            
+            
+<!--             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
+                width="48" />&nbsp;&nbsp; -->
+
 <!--             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp; -->
