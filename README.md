@@ -1,7 +1,6 @@
-### Hello peeps 👋
+<h1><p align="center">Hello peeps! <a href="https://abhilashpal.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-
-
+<p align="center">I'm a student developer and Full Stack programmer.<br/>I specialize in Web Development, CNN and Mobile Apps.</p><br/>
 
 <a href="https://linkedin.com/">
   <img align="left" alt="Avishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
