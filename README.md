@@ -1,9 +1,9 @@
-<h1><p align="center">Hello peeps! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center"><a href="https://www.tinyurl.com/avishekmain">Hello peeps!<a/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center">I'm a student developer and Full Stack programmer.<br/>I specialize in Web Development, CNN and Mobile Apps.</p><br/>
 
 <a href="https://www.linkedin.com/in/avishek-bhattacharjee-010b4b179/">
-  <img align="center" alt="Avishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Avishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/avishek22">
   <img align="center" alt="Avishek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -54,14 +54,7 @@
             <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48"
                 alt="Dart" />&nbsp;&nbsp;
 
-           
-            
-<!--              <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
-                width="48" />&nbsp;&nbsp;  -->
-
-<!--             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
-                width="48" />&nbsp;&nbsp; -->
+         
 </p>
   
 <br/>
