@@ -3,7 +3,7 @@
 <p align="center">I'm a student developer and Full Stack programmer.<br/>I specialize in Web Development, CNN and Mobile Apps.</p><br/>
 
 <a href="https://www.linkedin.com/in/avishek-bhattacharjee-010b4b179/">
-  <img align="right" alt="Avishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Avishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/avishek22">
   <img align="center" alt="Avishek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
