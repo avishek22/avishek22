@@ -67,7 +67,7 @@
 </a>
 
 ![](https://activity-graph.herokuapp.com/graph?username=avishek22&theme=github)
-![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=avishek22&show_icons=true&theme=dark&count_private=true)
+
 
 <p align="center"> 
 <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=avishek22&theme=dark" alt="avishek" />
