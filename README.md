@@ -34,9 +34,10 @@
 <p align="center">
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
                 alt="Javascript" />&nbsp;&nbsp;
+  <img  src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="48" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
                 alt="Node.js" width="48" />&nbsp;&nbsp;
-  <img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="48" /> 
+<!--   <img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="48" />  -->
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
                 alt="React.js" width="55" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="48" />
