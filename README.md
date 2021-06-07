@@ -48,6 +48,7 @@
                 width="48" />&nbsp;&nbsp;
             <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48"
                 alt="Dart" />&nbsp;&nbsp;
+  <img  src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++"  width="48" />&nbsp;&nbsp;
            
             
 <!--              <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
