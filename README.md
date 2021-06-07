@@ -34,7 +34,7 @@
 <p align="center">
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
                 alt="Javascript" />&nbsp;&nbsp;
-  <img  src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="48" />
+  <img  src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="52" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
                 alt="Node.js" width="48" />&nbsp;&nbsp;
 <!--   <img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="48" />  -->
@@ -44,7 +44,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
                 width="48" />&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
-                width="48" />&nbsp;&nbsp;
+                width="35" />&nbsp;&nbsp;
   <img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="48" /> 
   <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB"
                 width="48" />&nbsp;&nbsp;
