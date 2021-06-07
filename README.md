@@ -1,4 +1,4 @@
-<h1><p align="center">Hello peeps! <a href="https://abhilashpal.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello peeps! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center">I'm a student developer and Full Stack programmer.<br/>I specialize in Web Development, CNN and Mobile Apps.</p><br/>
 
