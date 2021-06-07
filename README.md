@@ -61,14 +61,14 @@
 <br/>
 
 ### :octocat: Github Stats
-<div>
+
 <a href="https://github.com/avishek22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek22&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek22&theme=dark&hide_langs_below=1" />
 </a>
 
 
 <p align="center"> 
 <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=avishek22&theme=dark" alt="avishek" />
 </p>
-  </div>
+  
 
