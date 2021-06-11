@@ -1,6 +1,6 @@
 <h1><p align="center"><a href="https://www.tinyurl.com/avishekmain">Hello peeps!<a/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<img align="center" alt="GIF" src="https://github.com/avishek22/avishek22/blob/main/gif.gif?raw=true" width="500" height="320" />
+<p align="center"><img align="center" alt="GIF" src="https://github.com/avishek22/avishek22/blob/main/gif.gif?raw=true" width="500" height="320" /></p>
 
 
 
