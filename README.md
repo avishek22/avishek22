@@ -7,17 +7,18 @@
 <p align="center">I'm a student developer and Full Stack programmer.<br/>I specialize in Web Development, CNN and Mobile Apps.</p><br/>
 
 <a href="https://www.linkedin.com/in/avishek-bhattacharjee-010b4b179/">
-  <img align="center" alt="Avishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  
+  <img align="left" alt="Avishek's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/avishek22">
-  <img align="center" alt="Avishek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Avishek's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
 <a href="https://www.instagram.com/avishek_22_/">
-  <img align="center" alt="Avishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Avishek's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/avishek.bhattia.22">
-  <img align="center" alt="Avishek's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Avishek's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
 
