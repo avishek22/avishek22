@@ -14,9 +14,10 @@
   <img align="left" alt="Avishek's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
-<a href="https://www.instagram.com/avishek_22_/">
+<!-- <a href="https://www.instagram.com/avishek_22_/">
   <img align="left" alt="Avishek's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
+ 
+</a> -->
 <a href="https://www.facebook.com/avishek.bhattia.22">
   <img align="left" alt="Avishek's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
